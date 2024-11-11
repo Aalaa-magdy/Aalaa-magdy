@@ -1,5 +1,5 @@
 <h1 align="center"><font color="pink">Hi 👋, I'm A'laa Magdy</font></h1>
-<h3 align="center">A passionate Full-Stack MERN Developer from Egypt</h3>
+<h3 align="center">A passionate Full-Stack MERN Developer </h3>
 
 <img align="right" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY201cGVsdDBxbHNwNXF0NjgyeGJrZ29heDRqZ3RocnBydW9objJoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" alt="coding"  />
 
