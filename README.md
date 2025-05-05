@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Red Sea Revera - The Modern Hotel Booking Platform**
 
-- 📫 How to reach me **Aalaamagdy11112@gmail.com**
+- 📫 How to reach me **alaamagdy11112@gmail.com**
 
 - ⚡ Fun fact : **Crochet Clothing 🧶
                 Table Tennis Player 🏓**
