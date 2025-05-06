@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aalaa-magdy&show_icons=true&locale=en" alt="aalaa-magdy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aalaa-magdy&" alt="aalaa-magdy" /></p>
