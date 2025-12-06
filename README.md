@@ -11,8 +11,8 @@
 ---
 
 <h3 align="left">💡 About Me</h3>
-I am a passionate Full-Stack Developer with expertise in building **modern, scalable, and efficient web applications**.  
-I enjoy turning ideas into functional products, focusing on **clean code, real-time applications, and innovative solutions**.  
+I am a passionate Full-Stack Developer with expertise in building modern, scalable, and efficient web applications .  
+I enjoy turning ideas into functional products, focusing on clean code, real-time applications, and innovative solutions.  
 
 ---
 
