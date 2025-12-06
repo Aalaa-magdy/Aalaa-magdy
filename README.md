@@ -43,7 +43,7 @@ I enjoy turning ideas into functional products, focusing on clean code, real-tim
 
 <h3 align="left">📫 Get in Touch</h3>
 - **Email:** [alaamagdy11112@gmail.com](mailto:alaamagdy11112@gmail.com)  
-- **GitHub:** [github.com/alaa-magdy](https://github.com/alaa-magdy)  
+- **GitHub:** [github.com/alaa-magdy](https://github.com/Aalaa-magdy)  
 
 ---
 
