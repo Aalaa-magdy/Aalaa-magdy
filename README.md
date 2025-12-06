@@ -7,12 +7,6 @@
 
 - 📫 How to reach me **alaamagdy11112@gmail.com**
 
-- ⚡ Fun fact : **Crochet Clothing 🧶
-                Table Tennis Player 🏓**
-<p align="left"> <a href="https://twitter.com/alaamagdy162" target="blank"><img src="https://img.shields.io/twitter/follow/alaamagdy162?logo=twitter&style=for-the-badge" alt="alaamagdy162" /></a> </p>
-<h3 align="left">Connect with me:</h3>
-
-
 
 
 <h3 align="left">Languages and Tools:</h3>
