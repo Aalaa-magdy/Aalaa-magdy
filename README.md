@@ -42,10 +42,10 @@ I enjoy turning ideas into functional products, focusing on clean code, real-tim
 ---
 
 <h3 align="left">📫 Get in Touch</h3>
-- **Email:** [alaamagdy11112@gmail.com](mailto:alaamagdy11112@gmail.com)  
-- **GitHub:** [github.com/alaa-magdy](https://github.com/Aalaa-magdy)  
+- Email: [alaamagdy11112@gmail.com](mailto:alaamagdy11112@gmail.com)  
+- GitHub: [github.com/alaa-magdy](https://github.com/Aalaa-magdy)  
 
 ---
 
 <h3 align="left">🌟 Fun Fact</h3>
-I love **turning ideas into real-world applications**, exploring **AI**, and building **interactive web platforms** that solve meaningful problems.
+I love turning ideas into real-world applications, exploring AI, and building interactive web platforms that solve meaningful problems.
