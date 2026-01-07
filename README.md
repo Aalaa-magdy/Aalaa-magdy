@@ -1,18 +1,20 @@
 <h1 align="center"><font color="pink">Hi 👋, I'm A'laa Magdy</font></h1>
-<h3 align="center">Full-Stack Developer | Software Engineering Graduate</h3>
+<h3 align="center"> Software Engineer</h3>
 
 <img align="right" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY201cGVsdDBxbHNwNXF0NjgyeGJrZ29heDRqZ3RocnBydW9objJoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" alt="coding"  />
 
 - 🎓 **Graduate:** Computers and Artificial Intelligence, Sadat University  
 - 👩‍🏫 **Instructor:** Software Engineering  
-- 💻 **Role:** Full-Stack Developer  
+- 💻 **Role:** Frontend Developer 
 - 📫 **Contact:** [alaamagdy11112@gmail.com](mailto:alaamagdy11112@gmail.com)  
 
 ---
 
 <h3 align="left">💡 About Me</h3>
-I am a passionate Full-Stack Developer with expertise in building modern, scalable, and efficient web applications .  
-I enjoy turning ideas into functional products, focusing on clean code, real-time applications, and innovative solutions.  
+Frontend Developer with strong experience in building scalable and performant user interfaces using React, Next.js, and React Native.  
+Skilled in component-based architecture, state management, API integration, and responsive design.  
+Focused on writing clean, maintainable code and delivering optimized, user-friendly web and mobile applications.
+
 
 ---
 
