@@ -6,7 +6,6 @@
 - 🎓 **Graduate:** Computers and Artificial Intelligence, Sadat University  
 - 👩‍🏫 **Instructor:** Software Engineering  
 - 💻 **Specialization:** Frontend & Mobile Development  
-- 📫 **Contact:** [alaamagdy11112@gmail.com](mailto:alaamagdy11112@gmail.com)
 
 ---
 
