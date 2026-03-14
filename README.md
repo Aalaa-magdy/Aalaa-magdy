@@ -106,7 +106,7 @@ I am passionate about transforming ideas into real-world digital products, conti
 <h3 align="left">📫 Get in Touch</h3>
 
 - 📧 Email: [alaamagdy11112@gmail.com](mailto:alaamagdy11112@gmail.com)  
-- 💼 GitHub: [github.com/Aalaa-magdy](https://github.com/Aalaa-magdy)
+
 
 ---
 
