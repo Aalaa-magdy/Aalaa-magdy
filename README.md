@@ -1,123 +1,100 @@
-<h1 align="center"><font color="pink">Hi 👋, I'm A'laa Magdy</font></h1>
-<h3 align="center">Software Engineer | Frontend & Mobile Developer</h3>
+<h1 align="center">✨ Hi 👋, I'm A'laa Magdy</h1>
 
-<img align="right" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY201cGVsdDBxbHNwNXF0NjgyeGJrZ29heDRqZ3RocnBydW9objJoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.webp" alt="coding" />
+<h3 align="center">🚀 Software Engineer | Frontend & Mobile Developer</h3>
 
-- 🎓 **Graduate:** Computers and Artificial Intelligence, Sadat University  
-- 👩‍🏫 **Instructor:** Software Engineering  
-- 💻 **Specialization:** Frontend & Mobile Development  
-
----
-
-<h3 align="left">💡 About Me</h3>
-
-Frontend and Mobile Developer with strong experience in building modern, scalable, and high-performance applications using **React, Next.js, and React Native**.  
-
-I specialize in:
-- Creating reusable and maintainable UI components  
-- Building responsive web and cross-platform mobile applications  
-- Integrating APIs and managing application state efficiently  
-- Writing clean, well-structured, and optimized code  
-
-I am passionate about transforming ideas into real-world digital products, continuously learning new technologies, and delivering smooth user experiences.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F78DA7&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+%7C+React+Native;Building+Modern+UI+%26+Experiences" />
+</p>
 
 ---
 
-<h3 align="left">🛠️ Skills & Tools</h3>
+<img align="right" width="220" src="https://media3.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.webp" />
+
+## 💡 About Me
+
+- 🎓 Graduate of Computers & AI — Sadat University  
+- 👩‍🏫 Software Engineering Instructor  
+- 💻 Frontend & Mobile Specialist  
+
+✨ I build **modern, scalable, and high-performance applications** using React ecosystem.
+
+- 🔹 Clean architecture & reusable components  
+- 🔹 Smooth UI/UX & animations  
+- 🔹 API integration & state management  
+- 🔹 Performance optimization  
+
+---
+
+## 🚀 Tech Stack
+
+### 🎨 Frontend & Mobile
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+</p>
+
+### ✨ UI & Animation
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/framer.svg" width="40"/>
+</p>
+
+### 🔐 Auth & Payments
+<p align="left">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stripe.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/clerk.svg" width="40"/>
+</p>
+
+### ⚙️ Backend & APIs
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
+</p>
+
+### ⚡ DevOps & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+</p>
+
+### 💻 Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alaamagdy&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-
-<!-- Frontend & Mobile -->
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://reactnative.dev/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-</a>
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
-</a>
-<a href="https://redux.js.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-<!-- Backend -->
-<a href="https://nodejs.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://expressjs.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.php.net" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-</a>
-
-<!-- Databases -->
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
-</a>
-
-<!-- DevOps -->
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-</a>
-<a href="https://kubernetes.io" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-</a>
-
-<!-- Languages -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
-
-<!-- Tools -->
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-<a href="https://postman.com" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-</a>
-
+  📧 <a href="mailto:alaamagdy11112@gmail.com">alaamagdy11112@gmail.com</a>
 </p>
-## 📊 GitHub Stats
- 
- 
-<div align="center">
- 
-![GitHub Streak](https://streak-stats.demolab.com/?user=alaamagdy&theme=tokyonight)
- 
-</div>
 
 ---
 
-<h3 align="left">📫 Get in Touch</h3>
-
-- 📧 Email: [alaamagdy11112@gmail.com](mailto:alaamagdy11112@gmail.com)  
-
-
----
-
-<h3 align="left">🌟 Fun Fact</h3>
-
-I enjoy turning ideas into real-world applications, exploring AI technologies, and building interactive web and mobile platforms that solve meaningful problems.
+<p align="center">
+  ✨ "Turning ideas into real-world digital experiences"
+</p>
