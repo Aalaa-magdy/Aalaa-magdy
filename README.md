@@ -100,7 +100,13 @@ I am passionate about transforming ideas into real-world digital products, conti
 </a>
 
 </p>
-
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alaamagdy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaamagdy&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+<div align="center">
+Show Image
+</div>
 ---
 
 <h3 align="left">📫 Get in Touch</h3>
