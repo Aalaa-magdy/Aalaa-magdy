@@ -37,8 +37,7 @@
 
 <p align="center">
 
-  <!-- ✅ FIXED MAIN STATS -->
-  <img src="https://github-readme-stats.vercel.app/api?username=alaamagdy&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800" />
+
 
   <!-- ✅ FIXED STREAK -->
   <img src="https://streak-stats.demolab.com?user=alaamagdy&theme=tokyonight&hide_border=true&cache_seconds=1800" />
@@ -53,13 +52,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaamagdy&theme=tokyo-night&hide_border=true" />
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alaamagdy&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
