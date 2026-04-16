@@ -31,26 +31,7 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,css,js,ts,nodejs,express,mongodb,prisma,docker,kubernetes,git,postman,java,python,cpp" />
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-
-
-  <!-- ✅ FIXED STREAK -->
-  <img src="https://streak-stats.demolab.com?user=alaamagdy&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaamagdy&theme=tokyo-night&hide_border=true" />
-</p>
 
 
 
