@@ -18,9 +18,9 @@ I design and ship production mobile and web applications end to end — from API
 **What that looks like in practice:**
 
 - **Typed data layers, not ad-hoc fetching.** Every integration follows the same discipline: TypeScript interfaces → API client → query/cache hooks → presentation components. Backend identifiers (e.g. MongoDB `_id`) are normalized at the boundary so the rest of the app never touches transport-layer concerns.
-- **Native platform debugging, not just JS.** Comfortable diagnosing issues that live below the JavaScript layer — SHA-1 keystore mismatches breaking OAuth on EAS builds, native splash/icon asset pipelines, adaptive icon generation, and Android-specific rendering quirks.
-- **Performance as a first-class concern.** Work with page-load metrics (FCP, LCP, TTI) beyond the dashboard numbers — understanding main-thread blocking, script loading strategy (async/defer), code splitting, and Web Workers well enough to explain and visualize them, not just apply them.
-- **Motion and navigation that feel native.** E.g. instant tab-switching UX (WhatsApp/Twitter-style) using Expo Router, tuned to avoid the default transition lag most RN apps ship with.
+- **Native platform debugging, not just JS.** Comfortable diagnosing issues that live below the JavaScript layer — Android-specific rendering quirks.
+- **Performance as a first-class concern.** Work with page-load metrics (FCP, LCP, TTI) beyond the dashboard numbers — understanding main-thread blocking, code splitting, and Web Workers well enough to explain and visualize them, not just apply them.
+- **Motion and navigation that feel native.**i tuned to avoid the default transition lag most RN apps ship with.
 
 ---
 
